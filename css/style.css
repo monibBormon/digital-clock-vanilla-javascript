@@ -25,7 +25,7 @@ body{
 .clock-container {
     width: 420px;
     height: 120px;
-    background-color: #3b53c8a8;
+    background-color: orange;
     position: absolute;
     top: 50%;
     left: 50%;
