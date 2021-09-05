@@ -12,7 +12,7 @@ body{
     color: #000;
     text-transform: uppercase;
     text-align: center;
-    background-color: #71a567bf;
+    background-color: #424141;
 }
 .container {
     width: 650px;
@@ -25,7 +25,7 @@ body{
 .clock-container {
     width: 420px;
     height: 120px;
-    background-color: orange;
+    background-color: #375671d9;
     position: absolute;
     top: 50%;
     left: 50%;
